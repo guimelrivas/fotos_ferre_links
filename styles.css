@@ -1,0 +1,79 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    background-color: #f3900e;
+}
+
+
+.navbar-green {
+    padding: 0.5em 1rem;
+}
+
+.logo-white {
+    width: 100px;
+}
+
+.card {
+    width: 23rem;
+}
+
+.list-group {
+    list-style: none;
+}
+
+.rl {
+    font-weight: 300;
+}
+
+.descr {
+    color: #212529;
+    font-size: 20px;
+}
+
+.fc-grey {
+    color: #707070;
+}
+
+.fc-green{
+color: #0b7e37
+}
+
+
+.fc-lgrey {
+    color: #a0a0a0
+}
+
+
+.fs-05 {
+    font-size: 13px;
+}
+
+.card-icon {
+    font-size: 13px;
+}
+
+.price {
+    text-align: end;
+}
+
+.price-green {
+    font-size: 21px;
+}
+
+.form-section {
+    background-color: #f3900e;
+}
+
+.form-section-body {
+    width: 58vh;
+}
+
+footer img {
+    width: 6rem;
+}
