@@ -9,3 +9,4 @@ Learning Git, trying to ge track of the files
 # pagina_fotos
 # fotos
 # fotos
+# fotos_ferre_links
