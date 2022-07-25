@@ -8,3 +8,4 @@ Learning Git, trying to ge track of the files
 ##Get add easy...git
 # pagina_fotos
 # fotos
+# fotos
